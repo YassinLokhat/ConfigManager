@@ -1,0 +1,10 @@
+c:\users\ylokhat\documents\visual studio 2015\Projects\ConfigModifier\ConfigModifier\bin\Debug\ConfigModifier.exe.config
+c:\users\ylokhat\documents\visual studio 2015\Projects\ConfigModifier\ConfigModifier\bin\Debug\ConfigModifier.exe
+c:\users\ylokhat\documents\visual studio 2015\Projects\ConfigModifier\ConfigModifier\bin\Debug\ConfigModifier.pdb
+c:\users\ylokhat\documents\visual studio 2015\Projects\ConfigModifier\ConfigModifier\obj\Debug\ConfigModifier.Properties.Resources.resources
+c:\users\ylokhat\documents\visual studio 2015\Projects\ConfigModifier\ConfigModifier\obj\Debug\ConfigModifier.csproj.GenerateResource.Cache
+c:\users\ylokhat\documents\visual studio 2015\Projects\ConfigModifier\ConfigModifier\obj\Debug\ConfigModifier.exe
+c:\users\ylokhat\documents\visual studio 2015\Projects\ConfigModifier\ConfigModifier\obj\Debug\ConfigModifier.pdb
+C:\Users\ylokhat\Documents\Visual Studio 2015\Projects\ConfigModifier\ConfigModifier\obj\Debug\ConfigModifier.SearchForm.resources
+C:\Users\ylokhat\Documents\Visual Studio 2015\Projects\ConfigModifier\ConfigModifier\obj\Debug\ConfigModifier.DuplicateForm.resources
+C:\Users\ylokhat\Documents\Visual Studio 2015\Projects\ConfigModifier\ConfigModifier\obj\Debug\ConfigModifier.MainForm.resources
